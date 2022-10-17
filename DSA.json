@@ -1135,6 +1135,13 @@
     "question": "Happy Number",
     "answerLink": "https://leetcode.com/problems/happy-number/"
 },
+{
+    "id": "17889",
+    "topic": "Heap Sort",
+    "question": "Implementing Dijkstra Algorithm",
+    "answerLink": "https://https://practice.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1/"
+},
+
 
 ]
 
